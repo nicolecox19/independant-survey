@@ -1,5 +1,5 @@
-Voter Info jQuery Lesson
-This project was for using jQuery to show certain parts of a website depending on a users age using if/else operators
+Survey Project
+This project was for using jQuery to show certain parts of a website depending on a users vacation prefrences using if/else operators
 
 Getting Started
 The whole thing should be good to go if you clone it.
